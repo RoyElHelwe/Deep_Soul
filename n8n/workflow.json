@@ -575,7 +575,7 @@
             "parameters": [
               {
                 "name": "Authorization",
-                "value": "Bearer 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"
+                "value": ""
               },
               {
                 "name": "Content-Type",
