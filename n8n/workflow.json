@@ -609,7 +609,7 @@
             "parameters": [
               {
                 "name": "Authorization",
-                "value": "Bearer sk-a42f2b6dd2854b8fa14b2b9820d2a650"
+                "value": ""
               },
               {
                 "name": "Content-Type",
@@ -1280,7 +1280,7 @@
             "parameters": [
               {
                 "name": "Authorization",
-                "value": "Bearer sk-a42f2b6dd2854b8fa14b2b9820d2a650"
+                "value": ""
               },
               {
                 "name": "Content-Type",
